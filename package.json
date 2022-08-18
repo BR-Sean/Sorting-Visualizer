@@ -2,7 +2,7 @@
   "name": "Sorting-Visualizer",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://br-sean.github.io/Sorting-Visualizer/",
+  "homepage": "https://evan-shan.github.io/Sorting-Visualizer/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
