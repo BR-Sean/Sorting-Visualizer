@@ -17,11 +17,10 @@ function QuickSort(arr, low, high){
 
 
 function Partition(arr, low, high){
-    let i = low - 1;//smaller element
+    let i = low - 1;
     for (let index = low; index <= high - 1; index++) {
         if( arr[index] <= arr[high]){
             i++;
-            //swap
             let temp = arr[i];
             arr[i] = arr[index];
             arr[index] = temp;
