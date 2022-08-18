@@ -1,1 +1,1 @@
-# br-sean.github.io/sorting-visualizer/
+br-sean.github.io/sorting-visualizer/
